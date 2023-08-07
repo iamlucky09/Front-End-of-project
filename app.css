@@ -1,0 +1,19 @@
+.home{
+    color: rgb(4, 4, 4);
+}
+.home a{
+    color: black;
+
+}
+.ho{
+    text-decoration: dotted;
+    color: blue;
+}
+.home h2{
+    color: blue;
+    text-transform: capitalize;
+}
+
+.navbar .home{
+    color: blue;
+}
